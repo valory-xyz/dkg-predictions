@@ -1,0 +1,6 @@
+{
+    "@context": "http://schema.org/",
+    "@id": "prediction-online",
+    "@type": "Tool",
+    "name": "prediction-online"
+}

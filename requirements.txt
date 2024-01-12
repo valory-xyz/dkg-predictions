@@ -1,0 +1,3 @@
+dkg
+python-dotenv
+setuptools
