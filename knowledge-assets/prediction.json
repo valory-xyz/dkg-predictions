@@ -1,9 +1,0 @@
-{
-    "@context": "http://schema.org/",
-    "@id": "prediction-online",
-    "@type": "Prediction",
-    "market": "prediction-online",
-    "tool": {@id: "tool's id"},
-    "result": "the mech's response"
-
-}
